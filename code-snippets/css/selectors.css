@@ -1,0 +1,19 @@
+/* Nastaví všem nadpisům první úrovně červenou barvu textu */
+h1 {
+  color: red;
+}
+
+/* Nastaví všem paragrafům velikost písma 14px */
+p {
+  font-size: 14px;
+}
+
+/* Nastaví všem elementům s třídou card padding 20px */
+.card {
+  padding: 20px;
+}
+
+/* Nastaví elementu s id title podtržení textu */
+#title {
+  text-decoration: underline;
+}
